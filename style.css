@@ -1,4 +1,4 @@
-.header{
+.header {
     padding: 20px;
     text-align: center;
     line-height: 80%;
@@ -13,4 +13,18 @@
   display: inline-block;
   padding: 1rem 1rem;
   vertical-align: middle;
+}
+
+rb {
+    font-size: 0.8em;
+    line-height: 1.2;
+    letter-spacing: normal;
+    word-spacing: 0.1em;
+    white-space: nowrap;
+    display: inline-block;
+    text-align: center;
+}
+
+rt {
+    font-size: 16px;
 }
