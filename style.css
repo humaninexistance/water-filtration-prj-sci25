@@ -4,6 +4,13 @@
     line-height: 80%;
 }
 
-.prototypes{
-    padding-left: 50px;
+.prototype1stuff, .prototype2stuff, .prototype3stuff {
+  margin: 1rem;
+  padding: 2rem 2rem;
+  text-align: center;
+}
+.prototype1, .prototype2, .prototype3 {
+  display: inline-block;
+  padding: 1rem 1rem;
+  vertical-align: middle;
 }
